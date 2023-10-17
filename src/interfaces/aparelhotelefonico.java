@@ -1,10 +1,7 @@
 package interfaces;
 
-public class aparelhotelefonico {
-
+public interface aparelhotelefonico {
     public void ligar();
-
     public void atender();
-
-    public void correiodevoz();
+    public void iniciarcorreiodevoz();
 }
