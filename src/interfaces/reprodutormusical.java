@@ -1,7 +1,10 @@
 package interfaces;
 
-public interface reprodutormusical {
-    public void tocar();
+public class reprodutormusical {
+
+    public void reproduzir();
+
     public void pausar();
+
     public void selecionarmusica();
 }
